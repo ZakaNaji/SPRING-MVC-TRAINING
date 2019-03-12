@@ -10,7 +10,7 @@
   <properties>
     <java-version>1.8</java-version>
     <spring.version>5.1.5.RELEASE</spring.version>
-    <jackson.library>2.7.5</jackson.library>
+    <jackson.library>2.7.8</jackson.library>
   </properties>
 
   <dependencies>
