@@ -5,6 +5,7 @@
 	<title>Training</title>
 </head>
 <body>
-	<h2>Spring MVC Training </h2>
+	<h2>Spring MVC Training : Customers Menu</h2>
+
 </body>
 </html>

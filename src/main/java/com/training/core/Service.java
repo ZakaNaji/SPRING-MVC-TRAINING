@@ -7,5 +7,7 @@ import com.training.model.Customer;
 public interface Service {
 
     List<Customer> customers();
-    Customer getCustomerById(int id);
+    Customer getCustomerByName(String name);
+    Customer addCustomer(Customer customer);
+
 }
